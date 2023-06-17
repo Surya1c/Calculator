@@ -179,7 +179,7 @@ class MainActivity : AppCompatActivity() {
                 val find2=find.last()
 
 
-                if(find2.equals("+")||find2.equals("-")||find2.equals("*")||find2.equals("÷")||find2.equals("%"))
+                if(find2.equals("+")||find2.equals("-")||find2.equals("*")||find2.equals("/")||find2.equals("%"))
                 {
                     check = check-1
                 }
