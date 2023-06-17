@@ -288,7 +288,7 @@
                 android:id="@+id/btn_divide"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
-                android:text="÷"
+                android:text="/"
                 android:fontFamily="sans-serif-medium"
                 android:textSize="30sp"
                 android:textStyle="bold"
