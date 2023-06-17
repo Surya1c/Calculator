@@ -151,7 +151,7 @@ class MainActivity : AppCompatActivity() {
             check = check + 1
         }
         btn_divi.setOnClickListener {
-            text = btn_inputext.text.toString() + "÷"
+            text = btn_inputext.text.toString() + "/"
             btn_inputext.setText(text)
             check = check + 1
         }
